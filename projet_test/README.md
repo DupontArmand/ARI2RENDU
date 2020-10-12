@@ -1,5 +1,5 @@
 # IMPORTANT
-You need nodejs to run this project. You can download it from here : https://nodejs.org/fr/ and add a path on linux in order to run npm and npw commands.
+You need nodejs to run this project. You can download it from here : https://nodejs.org/fr/ and add a path on linux in order to run npm and npx commands.
 If you are on Windows, you can use https://chocolatey.org/ in order to install nodejs on your device.
 
 Then you'll be able to use npm and npx commands. Don't forget to use `npm install` if your IDE does not do it for you before running `npm start`. 
